@@ -27,13 +27,22 @@ DJI
 
 字节
 bytedance
+豆包
 张一鸣
 
 特斯拉
 马斯克
+Gork
+Twitter
 
 微软
 Microsoft
+
+Meta
+Facebook
+Instagram
+Llama
+
 
 英伟达
 NVIDIA
@@ -53,6 +62,7 @@ sora
 claude
 Anthropic
 
+Apple
 iphone
 ipad
 mac
@@ -61,9 +71,11 @@ ios
 ai
 !gai
 人工智能
+大模型
+LLM
+MCP
 
 自动驾驶
-
 机器人
 
 国产
@@ -77,9 +89,7 @@ ai
 光刻机
 
 科技
-
 核能
-
 月球
 登月
 火星
